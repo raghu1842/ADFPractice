@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "JellaADFDemoGithub"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }

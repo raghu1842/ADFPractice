@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "JellaADFDemoGithub"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
