@@ -1,0 +1,9 @@
+{
+	"name": "JellaADFDemoGithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7a441c3-9594-49f1-814f-56bef55142e7",
+		"tenantId": "077c3584-b50c-4085-8a75-961ea0358fc3"
+	}
+}
